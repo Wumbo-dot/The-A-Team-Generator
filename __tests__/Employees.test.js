@@ -7,3 +7,11 @@ test('Test if we can get the constructor vaues for Employees', () => {
     expect(employees.id).toBe('8675309');
     expect(employees.email).toBe('jason@test.example.com');
 });
+
+test('Test if the getName populates', () => {
+    expect(employees.getName()).toBe('Jason');
+});
+
+test('Test to see if you can pull the getRole method', () => {
+    expect(employees.getRole()).toBe('Employee');
+});
