@@ -2,7 +2,7 @@
   "name": "the-a-team-generator",
   "version": "1.0.0",
   "description": "team generator",
-  "main": "app.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
@@ -16,13 +16,14 @@
   "author": "JT Gutierrez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Wumbo-dot/The-A-Team-Generator/issues"
+    "url": "https://github.com/Wumbo-dot/The-A-Team-Generator/"
   },
   "homepage": "https://github.com/Wumbo-dot/The-A-Team-Generator#readme",
   "devDependencies": {
     "jest": "^28.1.2"
   },
   "dependencies": {
+    "inquirer": "^8.0.0",
     "require": "^2.4.20"
   }
 }
