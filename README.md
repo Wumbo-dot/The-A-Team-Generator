@@ -8,3 +8,4 @@ After the input of the information that is required by the prompt, an html page 
 
 [link to github account](https://github.com/Wumbo-dot/The-A-Team-Generator)
 
+[link to screencastify video](https://drive.google.com/file/d/1cT1YcoFGU76BBUrDKoGL64LRIQiIXw-c/view)
